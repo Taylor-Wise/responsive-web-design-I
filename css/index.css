@@ -100,6 +100,7 @@ nav hr{
 .logo{
 	padding-left: 8%;
 }
+/* Instead of applying styles directly to the image, you could wrap the image in a container and set the styles on that. This would prevent the image from warping, you'll just have to play around with the flex properties of the container in order to position the image. */
 
 header{
 	width: 100%;
